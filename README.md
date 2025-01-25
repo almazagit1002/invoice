@@ -26,8 +26,8 @@ Before running the program, ensure the following are installed:
 ## Installation Guide
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/invoice-generator.git
-cd invoice-generator
+git clone https://github.com/almazagit1002/invoice.git
+cd invoice
 ```
 
 ### 2. Set Up a Virtual Environment
